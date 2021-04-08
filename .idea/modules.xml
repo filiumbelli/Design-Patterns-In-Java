@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Dp with Java 24 part.iml" filepath="$PROJECT_DIR$/.idea/Dp with Java 24 part.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
     </modules>
   </component>
 </project>
