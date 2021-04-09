@@ -6,6 +6,7 @@
       <root url="jar://$PROJECT_DIR$/Factory/lib/javassist-3.19.0-GA.jar!/" />
       <root url="jar://$PROJECT_DIR$/Factory/lib/reflections-0.9.10.jar!/" />
       <root url="jar://$PROJECT_DIR$/Factory/lib/jfxrt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Prototype/lib/commons-lang3-3.12.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
